@@ -1,0 +1,6 @@
+{
+  "name": "InternTrack - Internship Tracker & Certificate Generator",
+  "description": "Comprehensive internship attendance tracking, work logging, admin approval workflow, and verifiable digital certificate generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
